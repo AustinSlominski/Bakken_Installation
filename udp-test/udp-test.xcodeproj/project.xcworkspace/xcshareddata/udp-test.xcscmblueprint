@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2227F7899C1062CAB0D9FFB09A23959A663ACEEC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6D6FDB373C9A9EB614FB047E30EC71CD5377F13C" : 9223372036854775807,
+    "CA29DB320F881B85D76220FC5498A4D1FA4F037C" : 9223372036854775807,
+    "4401B78D6A43C47BEBBD941DAE88FAC3E6BE9980" : 9223372036854775807,
+    "2227F7899C1062CAB0D9FFB09A23959A663ACEEC" : 9223372036854775807,
+    "6DBA07F83F7AF99DB5F116332E6446603283BF4C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E089B0AE-5C05-486B-82BA-B30B2A70A97D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6D6FDB373C9A9EB614FB047E30EC71CD5377F13C" : "..\/addons\/ofxSSLManager",
+    "CA29DB320F881B85D76220FC5498A4D1FA4F037C" : "..\/addons\/ofxIO",
+    "4401B78D6A43C47BEBBD941DAE88FAC3E6BE9980" : "..\/addons\/ofxNetworkUtils",
+    "2227F7899C1062CAB0D9FFB09A23959A663ACEEC" : "bakken-project\/",
+    "6DBA07F83F7AF99DB5F116332E6446603283BF4C" : "..\/addons\/ofxHTTP"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "udp-test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "udp-test\/udp-test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AustinSlominski\/bakken-project.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2227F7899C1062CAB0D9FFB09A23959A663ACEEC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bakercp\/ofxNetworkUtils.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4401B78D6A43C47BEBBD941DAE88FAC3E6BE9980"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bakercp\/ofxSSLManager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D6FDB373C9A9EB614FB047E30EC71CD5377F13C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bakercp\/ofxHTTP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DBA07F83F7AF99DB5F116332E6446603283BF4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bakercp\/ofxIO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA29DB320F881B85D76220FC5498A4D1FA4F037C"
+    }
+  ]
+}

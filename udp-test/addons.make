@@ -1,0 +1,6 @@
+ofxHTTP
+ofxIO
+ofxNetwork
+ofxNetworkUtils
+ofxSSLManager
+ofxXmlSettings

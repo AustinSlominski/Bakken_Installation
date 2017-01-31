@@ -35,7 +35,7 @@
 include 'udp.php';        // udp data sending stuff
 
 $DESTINATION = 'localhost';
-$SENDPORT = '7400';
+$SENDPORT = '12345';
 $RECVPORT = '7401';
 
 
